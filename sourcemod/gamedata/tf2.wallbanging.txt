@@ -1,0 +1,50 @@
+"Games"
+{
+	"tf"
+	{
+		"Offsets"
+		{
+			"CTFWeaponBaseGun::FireBullet"
+			{
+				"linux"		"473"
+				"windows"	"466"
+			}
+			
+			"CTFWeaponBaseGun::FireBullet"
+			{
+				"linux"		"473"
+				"windows"	"466"
+			}
+			
+			"CTFWeaponBaseGun::GetProjectileDamage"
+			{
+				"linux"		"485"
+				"windows"	"481"
+			}
+			
+			"CTFWeaponBaseGun::GetWeaponSpread"
+			{
+				"linux"		"479"
+				"windows"	"475"
+			}
+			
+			"CTFWeaponBase::GetCustomDamageType"
+			{
+				"linux"		"380"
+				"windows"	"377"
+			}
+			
+			"CTFWeaponBase::GetWeaponID"
+			{
+				"linux"		"379"
+				"windows"	"376"
+			}
+			
+			"CBaseEntity::FireBullets"
+			{
+				"linux"		"113"
+				"windows"	"115"
+			}
+		}
+	}
+}
